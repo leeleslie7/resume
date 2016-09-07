@@ -194,6 +194,7 @@ progress::-moz-progress-value {
     background-image:url('../image/head.jpg');
     background-size: 120%;
     background-position:center;
+    transform:rotate(90deg);
     border-radius:50%;
     border:5px solid #607d8b;
     width:160px;
