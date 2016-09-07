@@ -192,7 +192,7 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url('../image/head.jpg');
-    background-size: 120%;
+    background-size: 135%;
     background-position:center;
     transform:rotate(90deg);
     border-radius:50%;
